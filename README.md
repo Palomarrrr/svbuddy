@@ -1,2 +1,3 @@
-# Palobuddy
+# svbuddy
 EXTREMELY WIP
+NOT CURRENTLY FUNCTIONAL
